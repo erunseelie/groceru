@@ -1,9 +1,5 @@
 # GrocerU 🛒
 
-_Your own grocery shopping experience._
-
----
-
 **groceru** aims to be a service that allows customers to select products from their local grocery stores, enabling scheduled delivery at a time that works best for you. Drawing inspiration from the [InstaCart](https://www.instacart.com/) and [DoorDash](https://www.doordash.com/) services, **groceru** is designed for an optimal user experience and simple reliability.
 
 ## Technologies
